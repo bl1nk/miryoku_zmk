@@ -6,7 +6,7 @@ jobs:
     secrets: inherit
     with:
       board: '["seeeduino_xiao_ble"]'
-      shield: '["totem_dongle","totem_left","totem_right"]'
+      shield: '["totem_dongle","totem_left","totem_right","settings_reset"]'
       mapping: '["qwerty"]'
       tap: '["qwerty"]'
       nav: '["vi"]'
