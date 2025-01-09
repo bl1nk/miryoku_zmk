@@ -7,3 +7,6 @@ jobs:
     with:
       board: '["seeeduino_xiao_ble"]'
       shield: '["totem_dongle","totem_left","totem_right"]'
+      mapping: '["qwerty"]'
+      tap: '["qwerty"]'
+      nav: '["vi"]'
